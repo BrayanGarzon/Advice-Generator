@@ -1,0 +1,9 @@
+{
+    "name": "Generador De Consejos",
+    "description": "Este es un generador de consejos simple desarrollado en Vue.js que utiliza la API de Advice Slip para proporcionar consejos aleatorios. Puedes usar este generador para obtener consejos inspiradores o divertidos en cualquier momento.",
+    "image": "https://github.com/BrayanGarzon/Todo-App/blob/main/todoAPP.png?raw=true",
+    "frameworks": ["Vue", "Html", "JavaScript", "CSS"],
+    "url_repo": "https://github.com/BrayanGarzon/Advice-Generator.git",
+    "fecha": "5/11/2023"
+  }
+  
