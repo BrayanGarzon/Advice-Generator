@@ -11,8 +11,6 @@ Este es un generador de consejos simple desarrollado en Vue.js que utiliza la AP
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1]('/AdviceGenerator/src/assets/design/ImageG.png')
-
 ![Captura de Pantalla 2](/AdviceGenerator/src/assets/design/mobile-design.jpg)
 
 ## Uso
@@ -37,3 +35,6 @@ Si deseas personalizar la apariencia o el comportamiento del generador de consej
 
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Siéntete libre de crear un Pull Request o informar sobre problemas.
 
+
+
+[def]: '/AdviceGenerator/src/assets/design/ImageG.png'

@@ -1,5 +1,7 @@
 <script>
+
 import axios from 'axios';
+
 
 
 export default {
@@ -45,9 +47,9 @@ export default {
       <div v-if="advice" class="text">{{ advice.advice }}</div>
       
       <div class="lineas">
-        <hr id="separadorLinea">
-        <i class="fas fa-circle" id="separador"></i>
-        <hr id="separadorLinea">
+        
+        <img src="../assets/images/pattern-divider-desktop.svg" alt="">
+
       </div>
       
       <button @click="getAdvice" class="floating-button"><i class="fa-solid fa-dice-five"></i></button>
@@ -56,7 +58,7 @@ export default {
     </div>
 
   </section>
-  
+    
 </template>
 
 <style scoped>
@@ -118,23 +120,15 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
-    gap: 10px;
-  }
-  section .card .lineas p{
-    margin: 0;
-    padding: 0;
-  }
-  section .card .lineas hr{
-    width: 100%;
-    color: var(--color-text);
-    margin: 0;
-    padding: 0;
+    
   }
 
-  section .card .lineas #separador{
-    color: var(--color-text);
+  section .card .lineas img {
+    max-width: 100%;
+    height: auto;
   }
+
+
 
 
   /*styles of the button*/
