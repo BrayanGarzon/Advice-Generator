@@ -4,6 +4,7 @@
     "image": "https://github.com/BrayanGarzon/Advice-Generator/blob/main/AdviceGenerator/src/assets/design/imageApp.png?raw=true",
     "frameworks": ["Vue", "Html", "JavaScript", "CSS"],
     "url_repo": "https://github.com/BrayanGarzon/Advice-Generator.git",
+    "url_live": "https://advince-generator.vercel.app/",
     "fecha": "05/11/2023"
   }
   
